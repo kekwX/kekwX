@@ -68,7 +68,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/kak7ak" target="_blank">
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png?&style=for-the-badge&logo=github&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" width="60" height="60" alt="telegram"/> 
 </a>    
 </div>  
   
