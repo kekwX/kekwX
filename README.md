@@ -3,7 +3,7 @@
 </div>  
   
 
-### **<div align="center">I'm Nikita, a beginner backend developer/Information Security Specialist 👨‍💻</div>**  
+### **<div align="center">I'm a beginner backend developer/Information Security Specialist 👨‍💻</div>**  
   
 
 - 🔭 I’m currently in learning new things for me 🧐  
