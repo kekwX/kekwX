@@ -89,8 +89,8 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=9r0dacnvwmvoerpnauaiq7a93&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=9a4260&bar_color_cover=false" /></div>  
-
+<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=9r0dacnvwmvoerpnauaiq7a93&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=9a4260&bar_color_cover=false" /></div>  -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9r0dacnvwmvoerpnauaiq7a93&cover_image=true&theme=novatorem&show_offline=false&background_color=c62424&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br/>  
 
 <div align="center">
