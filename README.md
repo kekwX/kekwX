@@ -5,5 +5,5 @@
 
 <img height=200 align="right" src="https://github-profile-trophy.vercel.app/?username=kekX&theme=dracula&row=2&column=3" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kekwx&theme=tokyonight" alt="kekwx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kekwx&theme=tokyonight&hide_border=true" alt="kekwx" /></p>
 
