@@ -1,5 +1,5 @@
 <a href="#">
-  <img height=160 align="right" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=kekwX&hide=css,scss&langs_count=10&layout=compact&theme=tokyonight&card_width=150" />
+  <img height=130 align="right" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=kekwX&hide=css,scss&langs_count=10&layout=compact&theme=tokyonight&card_width=130" />
 </a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kekwx&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="kekwx" /></p>
 
