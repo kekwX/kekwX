@@ -7,3 +7,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kekwx&theme=tokyonight" alt="kekwx" /></p>
 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kekwx&label=Profile%20views&color=880eb4&style=plastic" alt="kekwx" /> </p>
+
