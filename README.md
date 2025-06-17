@@ -8,4 +8,4 @@
 
 <img height=200 align="right" src="https://github-profile-trophy.vercel.app/?username=kekwX&theme=dracula&row=2&column=3" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kekwx&theme=tokyonight" alt="kekwX" /></p>
+<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=kekW&theme=tokyonight"/>
